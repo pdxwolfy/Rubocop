@@ -847,6 +847,9 @@ Style/SpaceBeforeComment:
                  same line.
   Enabled: true
 
+Style/SpaceBeforeFirstArg:
+  Enabled: true
+
 Style/SpaceBeforeSemicolon:
   Description: 'No spaces before semicolons.'
   Enabled: true
